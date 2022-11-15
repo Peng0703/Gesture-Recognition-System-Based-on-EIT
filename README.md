@@ -11,3 +11,4 @@ As shown in following figure, network A is the electrode-skin model describing t
 
 The muscle and skin bulge or twist to varying degrees with different gestures, leading to changes of contact state between electrode-skin and changes of parameters in network A. Besides, gesture changes also cause the movement of biological tissues in the wrist section, resulting in changes of parameters in network B. The changes in the impedance network A&B usually cause the different conductivity distribution in the wrist section, which can be reconstructed by analyzing the impedance changes at the boundary of the wrist section. Thus, different gestures can be recognized by using our EIT system.
 
+![](http://www.baidu.com/img/bdlogo.gif)
