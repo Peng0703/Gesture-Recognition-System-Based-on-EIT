@@ -1,5 +1,5 @@
 # Lu's Gesture Recognition Device
-## A Wearable Gesture Recognition System Based on Two-Terminal Electrical Impedance Tomograph (EIT)
+### A Wearable Gesture Recognition System Based on Two-Terminal Electrical Impedance Tomograph (EIT)
 
 This project comes from the following papers:  
 >*[1] X. Lu, S. Sun, K. Liu, J. Sun, and L. Xu, “[Development of a Wearable Gesture Recognition System Based on Two-Terminal Electrical Impedance Tomography](https://ieeexplore.ieee.org/document/9626614),” IEEE J. Biomed. Health Inform., vol. 26, no. 6, pp. 2515–2523, Jun. 2022, doi: 10.1109/JBHI.2021.3130374.*  
