@@ -5,6 +5,14 @@ This project comes from the following papers:
 >*[1] X. Lu, S. Sun, K. Liu, J. Sun, and L. Xu, “[Development of a Wearable Gesture Recognition System Based on Two-Terminal Electrical Impedance Tomography](https://ieeexplore.ieee.org/document/9626614),” IEEE J. Biomed. Health Inform., vol. 26, no. 6, pp. 2515–2523, Jun. 2022, doi: 10.1109/JBHI.2021.3130374.*  
 >*[2] J. Sun, X. Lu, S. Sun, R. Wang, and Y. Xie, “[Application of Multi-channel Impedance Measurement Device in Teaching of ‘Signal Analysis and Processing](https://ieeexplore.ieee.org/document/9534540),’” in 2021 2nd International Conference on Artificial Intelligence and Education (ICAIE), Dali, China, Jun. 2021, pp. 616–620. doi: 10.1109/ICAIE53562.2021.00136.*
 
+### Some apealling applications of the device
+
+Here are some videos recording the iterations of the project:
+
+>Video1: [Prototype machine - OneDrive-URL](https://1drv.ms/v/s!AoDu4pj-D_jahTKplk3McKVSprLi)  
+>Video2: [Earlier version of software - OneDrive-URL](https://1drv.ms/v/s!AoDu4pj-D_jahTFtp_ern4QVN0ie)  
+>Video3: [The real-time tomographic images of a goldfish swimming in a fish tank - OneDrive-URL](https://1drv.ms/v/s!AoDu4pj-D_jahTPuGWQtVpk2pLBI)  
+
 ### I.	Principle
 Impedance changes during gesture recognition include changes of contact impedance between electrode-skin and changes of internal impedance in the wrist section.
 
