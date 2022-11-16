@@ -11,7 +11,7 @@ The device has already been verified in controlling the PowerPoint (PPT) to turn
 
 Here are some videos recording the iterations of the project:
 
->Video1: [Prototype machine - OneDrive-URL](https://1drv.ms/v/s!AoDu4pj-D_jahTKplk3McKVSprLi)  
+>Video1: [Prototype machine for gesture recognition - OneDrive-URL](https://1drv.ms/v/s!AoDu4pj-D_jahTKplk3McKVSprLi)  
 >Video2: [Earlier version of software - OneDrive-URL](https://1drv.ms/v/s!AoDu4pj-D_jahTFtp_ern4QVN0ie)  
 >Video3: [The real-time tomographic images of a goldfish swimming in a fish tank - OneDrive-URL](https://1drv.ms/v/s!AoDu4pj-D_jahTPuGWQtVpk2pLBI)  
 
