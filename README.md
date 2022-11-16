@@ -24,4 +24,11 @@ The following figures show the customized circuit board. The size of the circuit
 <img src="https://github.com/Peng0703/Lu-s-Gesture-Recognition-Device/blob/main/Pics/hardware_device.png" height="160"><img src="https://github.com/Peng0703/Lu-s-Gesture-Recognition-Device/blob/main/Pics/hardware%20structure.png" height="160">
 </div>
 
+### III. Applications
+
+Here are some videos recording the iterations of the project:
+
+
+
+
 
