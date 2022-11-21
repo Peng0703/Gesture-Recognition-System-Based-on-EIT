@@ -7,7 +7,7 @@ This project comes from the following papers:
 
 ### I. Some apealling applications of the system
 
-The device has already been verified in controlling the PowerPoint (PPT) to turn pages and jump to the outline, etc. In the future, the recognition of more gestures with more complex or subtle motion changes will be investigated, so the device can be applied in more applications mentioned in Section I [1], especially in some outdoor scenes, such as sign language recognition of traffic police and construction workers in harsh environments (e.g., crowded road or rainy day, etc.).
+The device has already been verified in controlling the PowerPoint (PPT) to turn pages and jump to the outline, etc. In the future, the recognition of more gestures with more complex or subtle motion changes will be investigated, so the device can be applied in more applications mentioned in Section I [paper 1], especially in some outdoor scenes, such as sign language recognition of traffic police and construction workers in harsh environments (e.g., crowded road or rainy day, etc.).
 
 Here are some videos recording the iterations of the project:
 
@@ -16,7 +16,7 @@ Here are some videos recording the iterations of the project:
 >Video3: [The real-time tomographic images of a goldfish swimming in a fish tank - OneDrive-URL](https://1drv.ms/v/s!AoDu4pj-D_jahTPuGWQtVpk2pLBI)  
 
 <div align=center>
-<img src="https://github.com/Peng0703/Lus-Gesture-Recognition-Device/blob/main/Pics/the%20real-time%20tomographic%20images%20of%20a%20goldfish%20swimming%20in%20a%20fish%20tank.png" height="300">
+[<img src="https://github.com/Peng0703/Lus-Gesture-Recognition-Device/blob/main/Pics/the%20real-time%20tomographic%20images%20of%20a%20goldfish%20swimming%20in%20a%20fish%20tank.png" height="300">](https://1drv.ms/v/s!AoDu4pj-D_jahTPuGWQtVpk2pLBI)
 </div>
   
 ### II. Principle
