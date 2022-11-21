@@ -19,7 +19,7 @@ Here are some videos recording the iterations of the project:
     <img src="https://github.com/Peng0703/Lus-Gesture-Recognition-Device/blob/main/Pics/the%20real-time%20tomographic%20images%20of%20a%20goldfish%20swimming%20in%20a%20fish%20tank.png" height="300">   
 </div>
 
-[![]("https://github.com/Peng0703/Lus-Gesture-Recognition-Device/blob/main/Pics/the%20real-time%20tomographic%20images%20of%20a%20goldfish%20swimming%20in%20a%20fish%20tank.png" height="300")](https://1drv.ms/v/s!AoDu4pj-D_jahTPuGWQtVpk2pLBI)
+[![](https://github.com/Peng0703/Lus-Gesture-Recognition-Device/blob/main/Pics/the%20real-time%20tomographic%20images%20of%20a%20goldfish%20swimming%20in%20a%20fish%20tank.png)](https://1drv.ms/v/s!AoDu4pj-D_jahTPuGWQtVpk2pLBI)
     
 ### II. Principle
 Impedance changes during gesture recognition include changes of contact impedance between electrode-skin and changes of internal impedance in the wrist section.
