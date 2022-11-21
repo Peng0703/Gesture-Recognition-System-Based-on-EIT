@@ -13,7 +13,7 @@ Here are some videos recording the iterations of the project:
 
 >Video1: [Prototype machine for gesture recognition - OneDrive-URL](https://1drv.ms/v/s!AoDu4pj-D_jahTKplk3McKVSprLi)  
 >Video2: [Earlier version of software - OneDrive-URL](https://1drv.ms/v/s!AoDu4pj-D_jahTFtp_ern4QVN0ie)  
->Video3: [The real-time tomographic images of a goldfish swimming in a fish tank - OneDrive-URL](https://1drv.ms/v/s!AoDu4pj-D_jahTPuGWQtVpk2pLBI)  
+>Video3: [The real-time tomography of a goldfish swimming in a fish tank - OneDrive-URL](https://1drv.ms/v/s!AoDu4pj-D_jahTPuGWQtVpk2pLBI)  
 
 <div align=center>
     <img src="https://github.com/Peng0703/Lus-Gesture-Recognition-Device/blob/main/Pics/the%20real-time%20tomographic%20images%20of%20a%20goldfish%20swimming%20in%20a%20fish%20tank.png" height="300">  
