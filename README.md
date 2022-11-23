@@ -1,4 +1,4 @@
-# Gesture Recognition Device Based on EIT
+# Gesture Recognition System Based on EIT
 ### A Wearable Gesture Recognition System Based on Two-Terminal Electrical Impedance Tomograph (EIT)
 
 This project comes from the following papers:  
